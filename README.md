@@ -81,7 +81,5 @@ public class AccountApiExample {
 
 It's recommended to create an instance of `ApiClient` per thread in a multithreaded environment to avoid any potential issues.
 
-## Author
-
 
 
