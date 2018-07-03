@@ -1,4 +1,4 @@
-# hu.microcoin.client
+# MicroCoin Java Client
 
 ## Requirements
 
