@@ -47,7 +47,9 @@ compile "hu.microcoin:hu.microcoin.client:1.0.0"
 
 At first generate the JAR by executing:
 
-    mvn package
+```shell
+mvn package`
+```
 
 Then manually install the following JARs:
 
