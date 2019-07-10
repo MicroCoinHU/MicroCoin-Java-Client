@@ -1,6 +1,7 @@
 # MicroCoin Java Client
 
-[![GitHub license](https://img.shields.io/github/license/MicroCoinHU/MicroCoin-Java-Client.svg)](https://github.com/MicroCoinHU/MicroCoin-Java-Client/blob/master/LICENSE) [![CodeFactor](https://www.codefactor.io/repository/github/microcoinhu/microcoin-java-client/badge/master)](https://www.codefactor.io/repository/github/microcoinhu/microcoin-java-client/overview/master)
+[![GitHub license](https://img.shields.io/github/license/MicroCoinHU/MicroCoin-Java-Client.svg)](https://github.com/MicroCoinHU/MicroCoin-Java-Client/blob/master/LICENSE)
+[![CodeFactor](https://www.codefactor.io/repository/github/microcoinhu/microcoin-java-client/badge/master)](https://www.codefactor.io/repository/github/microcoinhu/microcoin-java-client/overview/master)
 
 ## Requirements
 
